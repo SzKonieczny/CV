@@ -8,4 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) -->
 
-[![My Tools](https://skillicons.dev/icons?i=html,css,js,react,figmagit,github,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode)](https://skillicons.dev)
